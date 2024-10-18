@@ -69,6 +69,7 @@
             </plugin>
         </plugins>
     </build>
+<<<<<<< HEAD
     <distributionManagement>
         <repository>
                 <id>releasesRepo</id> <!-- ID unique pour les releases -->
@@ -81,4 +82,6 @@
                 <url>http://192.168.50.4:8081/repository/maven-snapshots/</url>
         </snapshotRepository>
     </distributionManagement>
+=======
+         
 </project>

@@ -1,4 +1,4 @@
-FROM saifzribi/alpine
+FROM saifzribi/alpine:1.0.0
 
 EXPOSE 8082
 

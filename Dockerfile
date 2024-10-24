@@ -1,4 +1,4 @@
-FROM arafetmarnissi/alpine
+FROM arafetmarnissi/alpine:1.0.0
 
 EXPOSE 8082
 

@@ -25,7 +25,7 @@ SPRING_APPLICATION_JSON: '{
 "spring.datasource.password=",
 "spring.jpa.show-sql=true",
 "spring.jpa.hibernate.ddl-auto=update"
-
+}'
 stdin_open: true
 tty: true
 
